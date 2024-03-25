@@ -1,8 +1,8 @@
 baseurl: ""
 
-title      : evo Mortgage Solutions - Expert in Bond Origination & Home Loans | Durban
-email      : verna.avenstrup@evogroup.co.za
-description: Looking for expert assistance with your home loan? Contact Verna Avenstrup at evo Mortgage Solutions today. Our seasoned property professionals specialize in home loans and property finance, committed to excellence and building long-term relationships. Discover tailored solutions for bonds, home loans, and origination with our passionate team. Trust evo Mortgage Solutions for your home financing needs.
+title      : Bond Buddies - Experts in Bond Origination & Home Loans | Durban
+email      : anandie@bondbuddies.co.za
+description: Looking for expert assistance with your home loan? Contact Anandie vand der Westhuizen at Bond Buddies today. Our seasoned property professionals specialize in home loans and property finance, committed to excellence and building long-term relationships. Discover tailored solutions for bonds, home loans, and origination with our passionate team. Trust Bond Buddies for your home financing needs.
 author     : Eben Roux / Pieter Oosthuizen
 
 analytics:
@@ -26,8 +26,8 @@ exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
 
 group: evo Homeloans
 
-company: evo Mortgage Solutions
+company: Bond Buddies
 
-url: https://evohomeloans.co.za/bond-originator/pretoria/evo-mortgage-solutions/
+url: https://evohomeloans.co.za/bond-originator/bbb/
 
-address: 153 Sandvygie Cresent, Doornpoort, Pretoria, 0017
+address: 000 Roadname, Suburb, City, Province, 0000
