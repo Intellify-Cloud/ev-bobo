@@ -115,7 +115,7 @@ about:
     <br><br>
 
     Ex dolor quia est voluptatem animi sed quaerat dolor qui rerum aliquid et illo autem est internos consequatur in voluptatem quasi. Ea ipsa voluptas hic esse nobis in impedit omnis hic nesciunt quod in ipsum exercitationem. Non voluptatem culpa qui omnis autem id natus illo non sint voluptates est nihil impedit."
-    
+
 clients:
     title: Bank Partners
     section: clients
@@ -170,14 +170,14 @@ testimonials:
     text: "What Others Say About Us"
     section: testimonials
     people:
-      - name: "Clayton Swanepoel"
-        testimony: "Verna at EVO is simply outstanding. She is reliable, knowledgeable, helpful to a fault and helped us secure an excellent rate. I will never go to anyone else! Thanks Verna for your brilliant service!"
+      - name: "Person A."
+        testimony: "In quaerat quae est odio quibusdam in error autem qui delectus blanditiis. Ea nisi libero et dolor labore hic saepe voluptas sit natus perspiciati!"
 
-      - name: "Jeremaya Muza"
-        testimony: "I got excellent services in raising a bond for our house. I would recommend anyone to use their services. Many thanks and keep the good service going."
+      - name: "Person B."
+        testimony: "Et dignissimos dolorem et voluptatum assumenda ut voluptates veniam ea aliquid blanditiis aut corporis eius aut eligendi maxime."
 
-      - name: "Tyron Watkinson"
-        testimony: "Verna thank you very much for all your assistance throughout this process, you are a true professional! We would recommend your services to anyone looking to purchase a properry/properties. We look forward to doing business with you in the very near future."  
+      - name: "Person C."
+        testimony: "Ex unde totam est galisum omnis hic quia fuga et distinctio natus sed iusto nulla in excepturi eni"  
       
 contact:
     title: "Contact Us"
