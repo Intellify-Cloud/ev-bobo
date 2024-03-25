@@ -1,0 +1,59 @@
+/* Styling for the contact section */
+section#contact {
+  background: url("#{$contact-image}") center/cover no-repeat $gray-900;
+  .section-heading {
+    color: $white;
+    margin-bottom: 0.618em; /* Golden ratio */
+  }
+  .section-subheading {
+    color: $white;
+    margin-top: 0.618em; /* Golden ratio */
+  }
+  .form-group {
+    margin-bottom: 25px;
+    input, textarea {
+      padding: 20px;
+      &.form-control {
+        height: auto;
+        &::placeholder {
+          font-weight: 700;
+          color: $gray-400;
+          @include heading-font;
+        }
+      }
+      &.form-control.textarea {
+        height: 248px;
+      }
+    }
+    .form-control:focus {
+      border-color: $primary;
+      box-shadow: none;
+    }
+  }
+}
+
+.contact-us p {
+  margin-bottom: .25em;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  /* Adjusted line spacing for smaller screens */
+  section#contact .section-heading {
+    margin-bottom: 0.5em;
+  }
+
+  section#contact .section-subheading {
+    margin-top: 0.5em;
+  }
+
+  section#contact .form-group {
+    margin-bottom: 15px;
+    input, textarea {
+      padding: 15px;
+    }
+    .form-control.textarea {
+      height: 200px;
+    }
+  }
+}
