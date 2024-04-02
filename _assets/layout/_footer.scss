@@ -1,20 +1,51 @@
-// Styling for the footer
 .footer {
   padding: 30px 0;
   text-align: center;
-  span.copyright {
-    // font-size: 90%;
-    line-height: 50px;
-    text-transform: none;
-    @include heading-font;
-  }
-  ul.quicklinks {
-    font-size: 90%;
-    line-height: 40px;
-    margin-bottom: 0;
-    text-transform: none;
-    @include heading-font;
-  }
+}
+
+.footer .row {
+  display: contents;
+}
+
+.footer .copyright,
+.footer .quicklinks {
+  font-size: 100%;
+  line-height: 40px;
+  text-transform: none;
+}
+
+.footer .social-buttons li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.footer .social-buttons li:last-child {
+  margin-right: 0;
+}
+
+.footer .social-buttons a {
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  line-height: 50px;
+  font-size: 22px;
+  color: white;
+  border-radius: 100%;
+  background-color: #DB5B4F;
+  transition: background-color 0.3s;
+}
+
+.footer .social-buttons a:hover {
+  background-color: $primary; /* Assuming $primary is defined elsewhere */
+}
+
+.footer-links {
+  margin-top: 140px; /* Adjust as needed */
+}
+
+.footer-links a {
+  display: block;
+  line-height: 1.5; /* Adjust line height as needed */
 }
 
 .whatsapp {
@@ -22,34 +53,10 @@
   right: 8px;
   top: 85%;
 }
+
 .whatsapp h5 {
   color: rgb(255, 255, 255);
   background: #20b20f;
   padding: 8px;
   border-radius: 10px;
-}
-
-ul.social-buttons {
-  margin-bottom: 10px;
-  li {
-    a {
-      font-size: 20px;
-      line-height: 50px;
-      display: block;
-      width: 50px;
-      height: 50px;
-      -webkit-transition: all 0.3s;
-      -moz-transition: all 0.3s;
-      transition: all 0.3s;
-      color: white;
-      border-radius: 100%;
-      outline: none;
-      background-color: #DB5B4F;
-      &:active,
-      &:focus,
-      &:hover {
-        background-color: $primary;
-      }
-    }
-  }
 }

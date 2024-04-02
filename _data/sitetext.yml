@@ -97,7 +97,7 @@ textblock-lite:
     text: "Get in touch now to unlock quotes from our partner banks with just one application!
             <br><br>
             Whether it's pre-approvals, refinancing, or new home loans, let's make your dream home a reality. Contact us today!"
-    footer: "Our Bond Origination services are at no cost to you."
+    footer: ""
     section: textblock-lite
     list:
       - title: ""
@@ -151,15 +151,13 @@ clients:
         logo: assets/img/clients/SBSA-bw.png
     
 team:
-    title: "THE TEAM"
-    text: "Connecting with us is just a click away!"
-    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    title: ""
+    text: ""
     contact: 
     people:
       - name: "Anandie van der Westhuizen"
         role: "Property Finance Specialist"
-        image: assets/img/team/300x300.jpg
+        image: assets/img/team/300x300.png
         social:
           - url: tel:068 163 3991
             icon: fas fa-phone

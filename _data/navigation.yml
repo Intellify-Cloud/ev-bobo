@@ -9,7 +9,7 @@ nav:
     section: testimonials
     
   - title: "Contact"
-    url: /contact
+    section: team
 
   # - title: "Blog"
   #   section: articles
