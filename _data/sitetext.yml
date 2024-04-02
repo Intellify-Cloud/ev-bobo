@@ -1,10 +1,11 @@
 header:
     title: ""
-    text: "Need a homeloan?"
+    text: ""
 
 services:
     title: "Services We Offer"
-    text: "We get you the most competitive rate by sourcing quotes from the banks for you to compare."
+    text: "We've got your back! We'll scout the banks to get you the best rates, making sure you
+    have options to compare.<br> Let's be bond buddies and secure your dream home together!"
     section: services
     list:
       - title: "Bond Origination"
@@ -92,8 +93,10 @@ textblock:
         image: "fa-user-shield"
 
 textblock-lite:
-    title: "GET HOME LOAN QUOTES FROM ALL THE <br> BANKS WITH ONE APPLICATION"
-    text: "GET PRE-APPROVED TODAY"
+    title: "Ready to transform your home ownership journey?"
+    text: "Get in touch now to unlock quotes from our partner banks with just one application!
+            <br><br>
+            Whether it's pre-approvals, refinancing, or new home loans, let's make your dream home a reality. Contact us today!"
     footer: "Our Bond Origination services are at no cost to you."
     section: textblock-lite
     list:
@@ -118,6 +121,9 @@ about:
 
 clients:
     title: Bank Partners
+    text: "Discover the expeGet home loan quotes from our trusted partner banks with just one
+    application! Say goodbye to the hassle—get pre-approved today and unlock your
+    dream home in no timeriences of our valued buddies."
     section: clients
     max-height: 120px
     horizontal-scrolling: "" #"yes/no"
@@ -167,21 +173,39 @@ team:
  
 testimonials:
     title: "TESTIMONIALS"
-    text: "What Others Say About Us"
+    text: "Discover the experiences of our valued buddies."
     section: testimonials
     people:
-      - name: "Person A."
-        testimony: "In quaerat quae est odio quibusdam in error autem qui delectus blanditiis. Ea nisi libero et dolor labore hic saepe voluptas sit natus perspiciati!"
+      - name: "Thabo Modise"
+        testimony: "Getting pre-approved with BondBuddies was a game-changer! It gave me confidence and clarity as I began my home search. Their team was efficient and supportive throughout."
 
-      - name: "Person B."
-        testimony: "Et dignissimos dolorem et voluptatum assumenda ut voluptates veniam ea aliquid blanditiis aut corporis eius aut eligendi maxime."
+      - name: "Naledi Mokoena"
+        testimony: "BondBuddies's pre-approval process was seamless. It made my home-buying journey stress-free, knowing I had a clear budget in mind. Highly recommended!"
 
-      - name: "Person C."
-        testimony: "Ex unde totam est galisum omnis hic quia fuga et distinctio natus sed iusto nulla in excepturi eni"  
+      - name: "Sibusiso Nkosi"
+        testimony: "Being pre-approved by BondBuddies gave me a competitive edge in the property market. Their team's professionalism and swift process ensured I was ready to make offers confidently."  
+
+      - name: "Landie Botha"
+        testimony: "BondBuddies's pre-approval process was efficient and thorough. It allowed me to navigate the property market with ease, knowing I had their backing. Truly invaluable!"
+
+      - name: "Mandla Khumalo"
+        testimony: "Thanks to BondBuddies's pre-approval, I entered the property market with confidence. Their team's expertise and guidance ensured a smooth and swift process."
+
+      - name: "Nomfundo Dlamini"
+        testimony: "Being pre-approved by BondBuddies streamlined my home-buying journey. Their team's dedication and efficiency ensured I had clarity and confidence every step of the way."
+
+      - name: "Sipho Maseko"
+        testimony: "BondBuddies's pre-approval process was a breeze! It provided clarity and confidence as I explored properties, knowing my budget and limits."
+
+      - name: "Cindy van Niekerk"
+        testimony: "Securing pre-approval with BondBuddies was a pivotal step in my property journey. Their team's professionalism and support made the process straightforward and efficient."
+
+      - name: "Themba Mthembu"
+        testimony: "Thanks to BondBuddies's pre-approval, I approached the property market with clarity and confidence. Their team's expertise ensured I was well-prepared."
       
 contact:
-    title: "Contact Us"
-    text: ""
+    title: "Contact Bond Buddies"
+    text: "Ready to take the next step in your homebuying journey?"
     section: team
     
 footer:

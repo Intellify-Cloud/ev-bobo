@@ -1,13 +1,7 @@
 nav:
-  - title: "Why Us"
-    section: textblock-lite
-
   - title: "Services"
     section: services
     
-  - title: "Team"
-    section: team
-
   - title: "Calculators"
     section: calculators
 

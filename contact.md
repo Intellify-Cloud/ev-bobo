@@ -31,4 +31,3 @@ background: grey
 
 </div>
 
-{% include team.html %}
