@@ -5,14 +5,8 @@ nav:
   - title: "Calculators"
     section: calculators
 
-  - title: "Testimonials"
-    section: testimonials
-    
   - title: "Contact"
     section: team
 
-    - title: "Testimonials"
+  - title: "Testimonials"
     section: testimonials
-
-  # - title: "Blog"
-  #   section: articles
