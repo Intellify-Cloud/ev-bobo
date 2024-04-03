@@ -11,5 +11,8 @@ nav:
   - title: "Contact"
     section: team
 
+    - title: "Testimonials"
+    section: testimonials
+
   # - title: "Blog"
   #   section: articles

@@ -9,19 +9,19 @@ services:
     section: services
     list:
       - title: "Bond Origination"
-        desc: "We submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
+        desc: "Discover the power of bond origination! We handle your home loan applications with up to seven banks, securing the best rates and deals available. Let us simplify your home loan journey."
         icon: fas fa-home
         link: 
           url: mailto:anandie@bondbuddies.co.za ?subject=eMail from the Bond Buddies website
           text: "Email Us"
-      - title: "Pre-qualification"
-        desc: "We help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
+      - title: "Pre-Qualification"
+        desc: "Simplify pre-qualification! We assess your credit, income, and expenses to determine your bond eligibility, making your home buying journey clearer."
         icon: fas fa-tasks       
         link:
           url: tel:+27681633991
           text: "Call: 068 163 3991"
-      - title: "Still Looking for a Home"
-        desc: "I'm searching property portals and visiting show houses but have a few questions."
+      - title: "Still Looking for a Home?"
+        desc: "If you have questions while browsing property portals or visiting show houses, we're here to help! Consider us your home-buying buddies, supporting you every step of the way in finding that perfect property."
         icon: fas fa-search
         link: 
           url: mailto:anandie@bondbuddies.co.za?subject=Mail from the Bond Buddies website
@@ -38,19 +38,19 @@ calculators:
     section: calculators
     list:
       - title: "Bond Calculator"
-        desc: "Use Our Bond Calculator to find out what you qualify for."
+        desc: "Unlock your potential with our Bond Calculator. Discover what you qualify for today."
         icon: fas fa-calculator
         link: 
           url: /affordability-calculator
           text: "Calculate"
       - title: "Repayment Calculator"
-        desc: "Calculate your monthly bond repayments."
+        desc: "Plan your budget with ease using our Repayment Calculator. Calculate your monthly bond repayments effortlessly."
         icon: fas fa-calculator   
         link:
           url: /bond-calculator
           text: "Calculate"
       - title: "Transfer Cost Calculator"
-        desc: "Calculate your registration and transfer costs."
+        desc: "Discover the simplicity of our Transfer Calculator. Effortlessly estimate your property transfer costs with precision and ease."
         icon: fas fa-calculator   
         link:
           url: /transfer-cost-calculator
@@ -63,13 +63,13 @@ more-calculators:
     section: more-calculators
     list:
       - title: "Deposit Savings Calculator"
-        desc: "Calculate how much you need to save for your deposit."
+        desc: "Plan your savings journey with our Deposit Savings Calculator. Find out exactly how much you need to save for your deposit."
         icon: fas fa-calculator   
         link:
           url: /deposit-savings-calculator
           text: "Calculate"
       - title: "Amortisation Calculator"
-        desc: "Calculate how your repayment is structured."
+        desc: "Gain insights into your repayment structure with our Amortisation Calculator. Understand how your payments are structured over time."
         icon: fas fa-calculator   
         link:
           url: /amortisation-calculator
