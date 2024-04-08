@@ -9,5 +9,3 @@ background: white
         src="https://www.ooba.co.za/home-loan/extra-bond-payments-calculator/?iframe=true&iftype=nobrand"
         title="Extra Repayment Calculator"></iframe>
 </div>
-
-{% include team.html %}

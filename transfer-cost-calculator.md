@@ -9,5 +9,3 @@ background: white
         src="https://www.ooba.co.za/calculators/bond-and-transfer-costs-calculator?iframe=true&iftype=nobrand"
         title="Transfer Cost Calculator"></iframe>
 </div>
-
-{% include team.html %}

@@ -11,6 +11,3 @@ background: white
         src="https://www.ooba.co.za/calculators/bond-repayment-calculator/?iframe=true&iftype=nobrand"
         title="Bond Calculator"></iframe>
 </div>
-
-{% include team.html %}
-
